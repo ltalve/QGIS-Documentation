@@ -110,6 +110,8 @@ calculations to all or part of the features in the layer. This bar uses the same
 :ref:`expressions <vector_expressions>` as the |calculateField| :sup:`Field
 Calculator` (see :ref:`calculate_fields_values`).
 
+The attribute table can be scrolled horizontally with the mouse by holding the :kbd:`Shift` key.
+
 .. _attribute_table_view:
 
 Table view vs Form view
